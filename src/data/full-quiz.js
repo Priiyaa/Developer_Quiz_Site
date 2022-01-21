@@ -1,6 +1,16 @@
 const fullQuiz = [
   
-   {
+  Question: "How is constructor class named in javascript?",
+    Answer: "First letter is capital",
+    Distractor1: "First letter is small ",
+    Distractor2: "The class name is capitalized",
+    Distractor3: "Cassing does not matter",
+    Explanation:
+      " There can only be one special method with the name 'constructor' in a class. A SyntaxError will be thrown if the class contains more than one occurrence of a constructor method.",
+    Link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes",
+  
+  
+  {
    Question:
      "Which method can be used to replace parts of a string?",
     Answer: "replace()",
